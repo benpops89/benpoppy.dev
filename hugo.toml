@@ -1,0 +1,28 @@
+baseURL = 'https://benpoppy.dev/'
+languageCode = 'en-us'
+title = 'Personal Blog'
+theme = 'cactus'
+
+[params]
+  description = "Welcome to my personal blog! This space serves as a collection of my thoughts, discoveries, and insights as I navigate through various topics. Writing here helps me solidify what I learn, turning abstract ideas into structured knowledge. It’s also a handy reference I can revisit later—whether to troubleshoot a problem, reflect on growth, or simply share lessons with others. Whether you're here to explore, learn, or just browse, I hope you find value in what I share."
+
+  mainSection = "posts"
+  mainSectionTitle = "Blog"
+
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 5
+
+  googleAnalytics = false
+  rss = true
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/benpops89"
+
+[[params.social]]
+  name = "email"
+  link = "me@benpoppy.dev" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/benpoppy"
