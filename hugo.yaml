@@ -1,0 +1,13 @@
+languageCode: en-gb
+title: Ben's Blog
+theme: hyde
+
+Menus:
+  main:
+    - Name: Github
+      URL: https://github.com/benpops89/
+    - Name: LinkedIn
+      URL: https://www.linkedin.com/in/benpoppy/
+
+params:
+  description: Welcome to my blog! Here, I share my thoughts and discoveries to solidify what I learn and create a useful reference. Whether you're here to explore, learn, or browse, I hope you find value in these posts.
