@@ -1,0 +1,5 @@
+[tools]
+go = "1.23"
+
+[tasks.hugo]
+run = "hugo serve --baseURL=http://localhost:1313/"
