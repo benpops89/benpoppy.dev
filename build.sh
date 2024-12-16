@@ -1,5 +1,3 @@
-#!/bin/bash
-
 if [ "$CF_PAGES_BRANCH" = "main" ]; then
   hugo -b "https://benpoppy.dev/"
 else
