@@ -2,7 +2,6 @@
 title: Custom Domain with Cloudflare Pages and Hugo
 slug: deploy-hugo-cloudflare-custom-domain
 summary: How to deploy a Hugo site on Cloudflare Pages with a custom domain while maintaining functional preview builds using dynamic `baseURL` configuration.
-status: writing
 published: "2025-01-11T22:21:00"
 ---
 
