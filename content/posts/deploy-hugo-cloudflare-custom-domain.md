@@ -50,7 +50,7 @@ This script checks if the build is for the `main` branch. If so, it uses the cus
 When working locally, it's essential to provide the correct `baseURL` to ensure consistency with production. The default command for Hugo's local server can be updated as follows:
 
 ```shell
-hugo serve -b=http://localhost:1313/
+hugo serve -b http://localhost:1313/
 ```
 
 This ensures that links are generated correctly when previewing your site locally.
